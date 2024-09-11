@@ -34,7 +34,7 @@ const Hero = () => {
           innovative and flexible. To add valuable assets to your esteemed organization as an active member. 
         </p>
         <div className='my-8'>
-          <a href="https://drive.google.com/file/d/19dH5lia-vt9_qRm1YNS1sRD5Wa9djPsv/view?usp=sharing" className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br
+          <a href="https://drive.google.com/file/d/1ScHKNRcDpkiPP91ebXc0fsQZgzfhpiLF/view?usp=sharing" className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br
              from-teal-400 to-teal-800 text-white'>
             Download CV
           </a>
